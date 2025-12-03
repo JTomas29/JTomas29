@@ -32,7 +32,7 @@
 ---
 ## 🏗️ Proyecto: **Midland**
 
-**Midland-React** es mi proyecto principal — una aplicación web construida con React (y el stack que definás) con las siguientes características:
+**Midland-React** es mi proyecto principal — una aplicación web construida con React
 - ✅ Implementa [mencionar tech: React, Node/Backend, base de datos prox]
 - ✅ [Breve descripción]
 ## 🖼️ Capturas del Proyecto
