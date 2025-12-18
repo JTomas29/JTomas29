@@ -45,7 +45,7 @@
 <img width="1899" height="903" alt="Captura de pantalla 2025-12-03 194722" src="https://github.com/user-attachments/assets/a4e52051-8366-457c-b785-00302ec9a7af" />
 - ### 📁 Código & Demo
 - Repositorio: [JTomas29/midland-react](https://github.com/JTomas29/midland-react)
-- Demo / Live: [prox]
+- Demo / Live: https://midland-react.vercel.app/
 
 ### 🤝🏻 &nbsp;Conectemos
 
